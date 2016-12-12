@@ -1,0 +1,2 @@
+# cython_numpy_parallel_test
+CythonとNumpyの連携に関する公式チュートリアルを修正し、並列化も導入した上で速度を比較する
